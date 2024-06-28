@@ -6,4 +6,5 @@
 **AWS Management Console**
 
 1.launch an EC2 instance
-![alt text]()
+
+![alt text](DevOps-StageZero/images/devops.jpeg)
