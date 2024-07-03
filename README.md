@@ -1,4 +1,4 @@
-# HNG-Stage-Zero
+# HostingStaticWebsiteOnNginxServer
 
 ### Steps to deploy a  static website on amazon EC2 using an nginx server
 
